@@ -10,7 +10,7 @@ const projects = [
     description:
       "Detects human emotions using computer vision and recommends products based on mood and user behavior. Achieved ~78% accuracy in emotion detection.",
     tech: ["Python", "OpenCV", "Machine Learning", "React", "Tailwind", "MySQL"],
-    github: "https://github.com/Pandey-Mansi",
+    github: "https://colab.research.google.com/drive/15fY0uoUMYOPPuN8fov4WwooXTEgbmif8",
     gradient: "from-primary/20 to-chart-2/20",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     description:
       "Classifies tweets into positive, negative, or neutral sentiment using NLP preprocessing and machine learning models for real-time social media analysis.",
     tech: ["Python", "NLP", "Scikit-learn", "Pandas"],
-    github: "https://github.com/Pandey-Mansi",
+    github: "https://colab.research.google.com/drive/1X_TpkGJwpThdHjSgqYP1y3N_66HT3ZWL",
     gradient: "from-chart-2/20 to-chart-3/20",
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     description:
       "Built deep learning model using Convolutional Neural Networks on MNIST dataset. Achieved high accuracy in digit classification.",
     tech: ["Python", "TensorFlow", "Keras"],
-    github: "https://github.com/Pandey-Mansi",
+    github: "https://colab.research.google.com/drive/1ImGnVNfnhLZ-MCJ40YHmYIR951Zgw2b9",
     gradient: "from-chart-4/20 to-primary/20",
   },
 ]
